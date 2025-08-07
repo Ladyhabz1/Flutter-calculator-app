@@ -40,6 +40,16 @@ flutter pub get
 ```bash
 flutter run
 ```
+# For chrome (if enabled)
+
+```bash
+flutter run -d chrome 
+```
+or
+# For linux (if enabled)
+```bash
+flutter run -d linux 
+```
 
 ## Folder Structure
 

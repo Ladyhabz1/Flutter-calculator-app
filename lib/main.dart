@@ -56,7 +56,7 @@ class _CalculatorScreenState extends State<CalculatorScreen> {
   // State variables to track calculator status
   String _result = ''; // Stores the calculation result to display
   String _error = ''; // Stores error messages to display
-  String _selectedOperation = ''; // Tracks which operation was selected
+  String _selectedOperation = ''; // Tracks which operation to be selected
   
   // Main calculation method - performs the selected mathematical operation
   void _calculate(String operation) {

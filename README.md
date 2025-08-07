@@ -25,7 +25,7 @@ A basic calculator application built using **Flutter**. This app supports the fo
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/simple-calculator-flutter.git
+git clone https://github.com/your-username/Flutter-calculator-app
 cd simple-calculator-flutter
 ```
 

@@ -13,11 +13,6 @@ A basic calculator application built using **Flutter**. This app supports the fo
 - Responsive design for different screen sizes
 - Error handling for invalid inputs (like division by zero)
 
-## Screenshots
-
-> _You can add screenshots here by placing images in the `assets` folder and referencing them like so:_  
-> `![Calculator Screenshot](assets/screenshot.png)`
-
 ## Getting Started
 
 ### Prerequisites
